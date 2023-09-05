@@ -30,14 +30,12 @@ export class Question {
 
 
 
-const bloque1 = new Question("Cuál es la respuesta", ["html", "css", "javascript"], "cd")
 
-console.log(bloque1)
-console.log(bloque1.responseAnswer("html"))
+ 
 
-
+ 
 
 
-const bloque2 = new Question()
-console.log(bloque2.responseAnswer())
+
+ 
  

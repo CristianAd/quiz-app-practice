@@ -4,7 +4,8 @@ export const data = [
         choices: [
             'google', 
             'notepad',
-            'Firefox'
+            'Firefox',
+           
         ],
         answer: "notepad"
     },
